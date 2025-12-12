@@ -1,0 +1,9 @@
+Navegue até o diretório do projeto:
+Bash
+cd C:\MAMP\htdocs\gerencia_at_v4
+Execute o comando de instalação do Composer:
+Bash
+composer install
+Se você não tiver o Composer instalado globalmente, pode ser necessário usar o executável local:
+Bash
+php composer.phar install
