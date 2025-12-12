@@ -222,11 +222,11 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 
 ## Suporte
 
-Para suporte, abra uma issue no repositório ou entre em contato através do email: fabiano1981sf@gmail.com
+Para suporte, abra uma issue no repositório ou entre em contato através do email: fabiano1981.sf@gmail.com
 
 ## Autor
 
-Desenvolvido por **Fabiano Silva** com suporte da **IA Manus**
+Desenvolvido por **Fabiano Silva** 
 
 ---
 
